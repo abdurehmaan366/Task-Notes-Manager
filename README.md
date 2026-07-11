@@ -54,7 +54,14 @@ Task-Notes-Manager/
 ├── style.css
 ├── script.js
 ├── images/
-│   └── ...
+│   ├── note-icon.webp
+│   ├── edit-icon.svg
+│   └── delete-icon.svg
+├── screenshots/
+│   ├── desktop-view.png
+│   ├── desktop-dark-mode.png
+│   ├── mobile-view.png
+│   └── mobile-dark-mode.png
 └── README.md
 ```
 
@@ -129,9 +136,7 @@ No installation or dependencies are required.
 
 You can view the live project here:
 
-**https://your-vercel-link.vercel.app**
-
-*(Replace this with your deployed link.)*
+**task-notes-manager.vercel.app**
 
 ---
 

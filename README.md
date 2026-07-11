@@ -62,16 +62,19 @@ Task-Notes-Manager/
 
 ## 📸 Screenshots
 
-You can add screenshots of the application here.
+### Desktop
 
-Example:
+<p align="center">
+  <img src="desktop-view.png" alt="Desktop View" width="48%">
+  <img src="desktop-dark-mode.png" alt="Desktop Dark Mode" width="48%">
+</p>
 
-```
-screenshots/
-    home.png
-    dark-mode.png
-    mobile-view.png
-```
+### Mobile
+
+<p align="center">
+  <img src="mobile-view.png" alt="Mobile View" width="30%">
+  <img src="mobile-dark-mode.png" alt="Mobile Dark Mode" width="30%">
+</p>
 
 ---
 

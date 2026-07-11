@@ -62,18 +62,28 @@ Task-Notes-Manager/
 
 ## 📸 Screenshots
 
-### Desktop
+### Desktop - Light Mode
 
 <p align="center">
-  <img src="desktop-view.png" alt="Desktop View" width="48%">
-  <img src="desktop-dark-mode.png" alt="Desktop Dark Mode" width="48%">
+  <img src="desktop-view.png" width="900">
 </p>
 
-### Mobile
+### Desktop - Dark Mode
 
 <p align="center">
-  <img src="mobile-view.png" alt="Mobile View" width="30%">
-  <img src="mobile-dark-mode.png" alt="Mobile Dark Mode" width="30%">
+  <img src="desktop-dark-mode.png" width="900">
+</p>
+
+### Mobile - Light Mode
+
+<p align="center">
+  <img src="mobile-view.png" width="350">
+</p>
+
+### Mobile - Dark Mode
+
+<p align="center">
+  <img src="mobile-dark-mode.png" width="350">
 </p>
 
 ---
